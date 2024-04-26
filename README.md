@@ -1,8 +1,8 @@
 # MarchHelper 简介
 
-MarchHelper，是一款基于 [tauri](https://tauri.app/zh-cn) `目前`由OldGodShen开发的局域网助手（可能？）。
+MarchHelper，是一款基于 [Tauri](https://tauri.app/zh-cn) `目前`由OldGodShen开发。
 
->此项目是一个局域网助手
+>此项目是一个局域网助手（可能？）
 
 ## 开发中的功能
     文件传输
