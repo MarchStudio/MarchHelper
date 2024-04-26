@@ -3,7 +3,7 @@ import time
 
 broadcast_address = "255.255.255.255"
 port = 12345
-message = input("要广播的信息")
+message = input("要广播的信息:")
 
 # fake_source_ip = "127.0.0.1"  # 伪造的源IP地址用于测试
 
