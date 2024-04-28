@@ -8,6 +8,8 @@ MarchHelper，是一款基于 [Tauri](https://tauri.app/zh-cn) `目前`由OldGod
     文件传输
     信息传输
 
+## 后端业务逻辑
+   ![后端业务逻辑图](后端业务逻辑设计.png)
 
 
 ## Recommended IDE Setup
