@@ -9,8 +9,10 @@ MarchHelper，是一款基于 [Tauri](https://tauri.app/zh-cn) `目前`由OldGod
     信息传输
 
 ## 后端业务逻辑
-   [![后端业务逻辑图](后端业务逻辑设计.png)](https://pixso.cn/app/ifr?url=https://pixso.cn/app/board/3Z_rh2hKb92aNnYTWLlPkA?roadMapNodeGuid=1%3A702)
+[![后端业务逻辑图](后端业务逻辑设计.png)](https://pixso.cn/app/ifr?url=https://pixso.cn/app/board/3Z_rh2hKb92aNnYTWLlPkA?roadMapNodeGuid=1%3A702)
 
+## 设计原理图所用软件
+- [Pixso](https://pixso.cn)
 
 ## Recommended IDE Setup
 
