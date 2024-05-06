@@ -14,6 +14,10 @@ tauri-build = { version = "1", features = [] }
 tauri = { version = "1", features = ["shell-open"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
+clap = { version = "4.5.4", features = ["derive"] }
+zeroconf = "0.14.1"
+log = "0.4.21"
+march_env_logger_init = "0.1.1"
 
 [features]
 # This feature is used for production builds or when a dev server is not specified, DO NOT REMOVE!!
